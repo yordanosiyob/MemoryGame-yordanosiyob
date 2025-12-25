@@ -21,6 +21,12 @@ MemoryGame är ett interaktivt kortspel utvecklat med HTML, CSS och JavaScript. 
 
 ---
 
+
+## Viktig information
+**OBS:** HTML, CSS och bilder är från lärarens mall.  
+**Mitt arbete:** JavaScript och övriga funktioner är gjorda av mig.
+
+
 ## Mappstruktur
 
 MemoryGame/
